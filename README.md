@@ -1,7 +1,7 @@
-# Script V-Code (Version 3 Websocket)
+# Script V-Code (Version 4 TCP)
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.6-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## INSTALLATION SCRIPT
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/coding006/m-code/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/coding006/t-code/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
  
@@ -86,11 +86,11 @@ apt install -y linux-headers-$(uname -r)
   - Shadowsocks-R           : 1443-1543
   - SS-OBFS TLS             : 2443-2543
   - SS-OBFS HTTP            : 3443-3543
-  - XRAY Vmess Ws TLS       : 443
-  - XRAY Vless Ws TLS       : 443
+  - XRAY Vmess Tcp TLS      : 443
+  - XRAY Vless Tcp TLS      : 443
   - XRAY Vless Tcp XTLS     : 443
-  - XRAY Vmess Ws None TLS  : 80
-  - XRAY Vless Ws None TLS  : 8080
+  - XRAY Vmess Tcp None TLS : 80
+  - XRAY Vless Tcp None TLS : 8080
   - XRAY Trojan TCP TLS     : 443
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
