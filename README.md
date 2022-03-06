@@ -92,6 +92,7 @@ apt install -y linux-headers-$(uname -r)
   - XRAY Vmess Tcp None TLS : 80
   - XRAY Vless Tcp None TLS : 8080
   - XRAY Trojan TCP TLS     : 443
+  - Trojan Go               : 2087
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
    - Fail2Ban                 : [ON]
