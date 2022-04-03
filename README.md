@@ -58,7 +58,7 @@ apt install -y linux-headers-$(uname -r)
 
   ## Status Running
  
-![IMG_20220214_010047](https://user-images.githubusercontent.com/96321013/153766026-f8deebc4-06ab-463b-a65f-11c575437a6e.jpg)
+![IMG_20220403_142622](https://user-images.githubusercontent.com/96321013/161414891-0bc47bcc-2a5c-47f1-9b01-7f298b79815d.jpg)
 
   ## Service & Port
  
