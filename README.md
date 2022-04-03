@@ -1,4 +1,4 @@
-# Script V-Code (Version 4 TCP)
+# Script V-Code (TCP)
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
@@ -92,7 +92,7 @@ apt install -y linux-headers-$(uname -r)
   - XRAY Vmess Tcp None TLS : 80
   - XRAY Vless Tcp None TLS : 8080
   - XRAY Trojan TCP TLS     : 443
-  - Trojan Go               : 2087
+  - Trojan Go               : 2083
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
    - Fail2Ban                 : [ON]
