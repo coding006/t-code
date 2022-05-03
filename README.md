@@ -48,9 +48,9 @@ apt install -y linux-headers-$(uname -r)
 
 ## Info :
 
- ## Script for Sell Only. Contact owner on Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## Script for RENT Only. Contact owner on Telegram @ARTunnel57dotcom <a href="https://t.me/ARTunnel57dotcom" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @ARTunnel57dotcom <a href="https://t.me/ARTunnel57dotcom" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
  
@@ -112,13 +112,15 @@ apt install -y linux-headers-$(uname -r)
 
 ## Telegram
 
-[V-Code](https://t.me/Virtual_NW)
+[Owner](https://t.me/ARTunnel57dotcom)
 
-[Group V-Code](https://t.me/+HtRm-s0MLBgxODZl)
+[Group ARTunnel57](https://t.me/ARTunnel57_feedback)
 
-[Channel V-Code](https://t.me/Virtual_NW_Channel)
+[Channel ARTunnel57](https://t.me/ARTunnel57_malaysia)
 
 ## Credit :
+
+*   ARTunnel57
 
 *   V-Code
 
